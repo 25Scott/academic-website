@@ -1,39 +1,36 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Tianheng LUO 骆天珩
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Postgraduate of Rehabilitation Engineering & Assistive Technology
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University College London
+    url: https://www.ucl.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include computational mechanics, biomechanics and lightweight strucural optimization.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computational Mechanics
+  - Biomechanics
+  - Lightweight Structual Optimization
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MSc in Rehabilitation Engineering & Assistive Technology
+      institution: University College London
+      year: Now
+    - course: BEng in Mechatronics and Robotic Systems
+      institution: Xi'an Jiaotong-Liverpool University
+      year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
