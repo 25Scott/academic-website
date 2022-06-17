@@ -3,7 +3,7 @@ title: Tianheng LUO 骆天珩
 role: Postgraduate of Rehabilitation Engineering & Assistive Technology
 avatar_filename: avatar.jpg
 bio: My research interests include computational mechanics, biomechanics and
-  lightweight strucural optimization.
+  lightweight structural optimization.
 interests:
   - Computational Mechanics
   - Biomechanics
@@ -39,9 +39,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Tianheng is a postgraduate student of Rehabilitation Engineering & Assistive Technology at University College London (UCL). His research interests include computational mechanics, biomechanics and lightweight structural optimization with the lattice structures. He was recruited as a research assistant (RA) focusing on the computational mechanics of the lattice structures, and led the research project which developed an extremely lightweight medical exoskeleton device.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
