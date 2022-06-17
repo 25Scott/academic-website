@@ -1,5 +1,5 @@
 ---
-title: Tianheng LUO 骆天珩
+title: Tianheng LUO
 role: Postgraduate of Rehabilitation Engineering & Assistive Technology
 avatar_filename: avatar.jpg
 bio: My research interests include computational mechanics, biomechanics and
