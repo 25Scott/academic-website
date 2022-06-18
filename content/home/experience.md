@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: RA
+  - title: Research Assistant
     company: Xi'an Jiaotong-Liverpool University
     company_url: 'https://www.xjtlu.edu.cn/zh/'
     company_logo: org-gc
@@ -32,10 +32,8 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Carrying out experients, numerical simulation and data analysis according to researching requirements
-        * Contributing to research article writing and figure illustration
-        * Leading undergraduate research project
-        * Assisting undergraduate students in their final year projects
+        * Experiment
+        * Data Analysis
 
   - title: Regional VP
     company: AIESEC
