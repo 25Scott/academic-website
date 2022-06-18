@@ -36,8 +36,8 @@ experience:
         * Modelling
         * Deploying
 
-  - title: CEO
-    company: GenCoin
+  - title: VP
+    company: AIESEC
     company_url: ''
     company_logo: org-gc
     location: California
