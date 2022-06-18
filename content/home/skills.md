@@ -28,6 +28,10 @@ feature:
     icon: camera-retro
     icon_pack: fas
     name: Photography
+  - description: 70%
+    icon: knee
+    icon-pack: custom
+    name: ANSYS
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
