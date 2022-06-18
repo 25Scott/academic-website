@@ -36,7 +36,7 @@ experience:
         * Modelling
         * Deploying
 
-  - title: Regional Vice President in Suzhou
+  - title: Regional Vice President
     company: AIESEC
     company_url: 'https://aiesec.org/'
     company_logo: 
