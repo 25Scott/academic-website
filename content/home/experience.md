@@ -36,19 +36,14 @@ experience:
         * Modelling
         * Deploying
 
-  - title: CEO
-    company: GenCoin
+  - title: Regional Vice President
+    company: AIESEC
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+    company_logo: AIESEC
+    location: Suzhou, China
+    date_start: '2019-6-1'
+    date_end: '2020-5-31'
+    description: Achieve long-term partnership with domestic international companies with more than 10 global interns from 6 countries
 
 design:
   columns: '2'
