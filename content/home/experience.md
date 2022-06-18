@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 - title: RA
-    company: Xi'an Jiaotong-Liverpool University
+    company: XJTLU
     company_url: ''
     company_logo: org-gc
     location: Suzhou, China
