@@ -19,7 +19,8 @@ feature:
   - description: 85%
     icon: gears
     icon_pack: fas
-    name: Finite Element Analysis (ANSYS)
+    name: Finite Element Analysis
+          (ANSYS)
   - description: 80%
     icon: code
     icon_pack: fas
