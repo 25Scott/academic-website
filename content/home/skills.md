@@ -18,7 +18,7 @@ subtitle:
 feature:
   - description: 85%
     icon: gears
-    icon_pack: far
+    icon_pack: fas
     name: ANSYS
   - description: 80%
     icon: chart-line
@@ -37,13 +37,9 @@ feature:
     icon_pack: fas
     name: English
   - description: 70%
-    icon: piano
+    icon: music
     icon_pack: fas
     name: Music
-  - icon: "knee"
-    icon_pack: "custom"
-    name: "ANSYS"
-    description: "90%"
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
