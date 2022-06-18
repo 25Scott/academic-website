@@ -39,7 +39,7 @@ experience:
   - title: Regional VP
     company: AIESEC
     company_url: 'https://aiesec.org/'
-    company_logo: AIESEC
+    company_logo: org-gc
     location: California
     date_start: '2021-01-01'
     date_end: ''
