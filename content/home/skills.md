@@ -17,7 +17,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description: 85%
-    icon: bone-break
+    icon: gears
     icon_pack: far
     name: ANSYS
   - description: 80%
@@ -25,7 +25,7 @@ feature:
     icon_pack: fas
     name: MATLAB
   - description: 80%
-    icon: unity
+    icon: cubes
     icon_pack: fas
     name: 3D Modeling (CREO, SolidWorks, Rhino, Keyshot)
   - description: 90%
@@ -37,9 +37,13 @@ feature:
     icon_pack: fas
     name: English
   - description: 70%
-    icon: piano-keyboard
-    icon_pack: far
-    name: MATLAB
+    icon: piano
+    icon_pack: fas
+    name: Music
+  - icon: "knee"
+    icon_pack: "custom"
+    name: "ANSYS"
+    description: "90%"
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
