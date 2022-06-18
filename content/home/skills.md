@@ -23,8 +23,7 @@ feature:
   - description: 80%
     icon: code
     icon_pack: fas
-    name: Coding
-    (MATLAB, C)
+    name: Coding (MATLAB, C)
   - description: 80%
     icon: cubes
     icon_pack: fas
