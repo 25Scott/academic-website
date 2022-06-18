@@ -40,7 +40,7 @@ experience:
   - title: Regional VP
     company: AIESEC
     company_url: ''
-    company_logo: AIESEC
+    company_logo: org-gc
     location: Suzhou, China
     date_start: '2019-06-01'
     date_end: '2020-05-31'
