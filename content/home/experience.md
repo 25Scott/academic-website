@@ -42,8 +42,8 @@ experience:
     company_logo: org-gc
     location: China
     date_start: '2019-6-1'
-    date_end: '2020-5-31'
-    description: Achieve long-term partnership with domestic international c
+    date_end: ''
+    description:
 
 design:
   columns: '2'
