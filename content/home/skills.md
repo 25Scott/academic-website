@@ -18,7 +18,7 @@ subtitle:
 feature:
   - description: 85%
     icon: bone-break
-    icon_pack: fas
+    icon_pack: far
     name: ANSYS
   - description: 80%
     icon: chart-line
@@ -38,7 +38,7 @@ feature:
     name: English
   - description: 70%
     icon: piano-keyboard
-    icon_pack: fas
+    icon_pack: far
     name: MATLAB
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
