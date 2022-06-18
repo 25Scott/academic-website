@@ -39,6 +39,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Tianheng is a postgraduate student of Rehabilitation Engineering & Assistive Technology at University College London (UCL). His research interests include computational mechanics, biomechanics and lightweight structural optimization with the lattice structures. He was recruited as a research assistant (RA) focusing on the computational mechanics of the lattice structures, and led the research project which developed an extremely lightweight medical exoskeleton device.
+Tianheng is a postgraduate of Rehabilitation Engineering & Assistive Technology student at University College London (UCL). His research interests include computational mechanics, biomechanics and lightweight structural optimization with the lattice structures. He was recruited as a research assistant (RA) focusing on the computational mechanics of the lattice structures, and led the research project which developed an extremely lightweight medical exoskeleton device.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
