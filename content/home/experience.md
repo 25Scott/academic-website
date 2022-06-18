@@ -39,7 +39,7 @@ experience:
   - title: Regional Vice President in Suzhou
     company: AIESEC
     company_url: 'https://aiesec.org/'
-    company_logo: AIESEC
+    company_logo: org-gc
     location: Suzhou, China
     date_start: '2019-6-1'
     date_end: '2020-5-31'
