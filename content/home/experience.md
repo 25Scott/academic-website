@@ -33,8 +33,10 @@ experience:
         Responsibilities include:
         
         * Experiment
-        * Data Analysis
-        * Paper Writing
+        * Data
+        * Paper
+
+
   - title: Regional VP
     company: AIESEC
     company_url: 'https://aiesec.org/'
