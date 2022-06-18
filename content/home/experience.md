@@ -36,7 +36,7 @@ experience:
         * Modelling
         * Deploying
 
-  - title: VP
+  - title: Regional VP
     company: AIESEC
     company_url: ''
     company_logo: org-gc
