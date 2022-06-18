@@ -16,18 +16,30 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: 90%
+  - description: 85%
     icon: bone-break
-    icon_pack: fab
+    icon_pack: fas
     name: ANSYS
-  - description: 100%
+  - description: 80%
     icon: chart-line
     icon_pack: fas
-    name: Statistics
-  - description: 10%
-    icon: camera-retro
+    name: MATLAB
+  - description: 80%
+    icon: unity
     icon_pack: fas
-    name: Photography
+    name: 3D Modeling (CREO, SolidWorks, Rhino, Keyshot)
+  - description: 90%
+    icon: doi
+    icon_pack: ai
+    name: Article Production (Latex, Adobe AI&PS, Origin, etc.)
+  - description: 90%
+    icon: language
+    icon_pack: fas
+    name: English
+  - description: 70%
+    icon: piano-keyboard
+    icon_pack: fas
+    name: MATLAB
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
