@@ -28,13 +28,8 @@ experience:
     company_logo: org-gc
     location: Suzhou, China
     date_start: '2021-05-31'
-    date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * qwe
-        * qwe
-        * qwe
+    date_end: '2022-06-30'
+    description: Achieving long-term partnership with domestic international companies with global interns from more than 6 countries.
 
   - title: Regional VP
     company: AIESEC
