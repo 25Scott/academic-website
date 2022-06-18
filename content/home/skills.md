@@ -31,7 +31,7 @@ feature:
   - description: 90%
     icon: doi
     icon_pack: ai
-    name: Article Production (Latex, Adobe AI&PS, Origin, etc.)
+    name: Article Production (LaTeX, Adobe AI&PS, Origin, etc.)
   - description: 90%
     icon: language
     icon_pack: fas
