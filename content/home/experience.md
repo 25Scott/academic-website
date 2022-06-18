@@ -22,14 +22,19 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-- title: Research Assistant
+- title: RA
     company: Xi'an Jiaotong-Liverpool University
     company_url: ''
     company_logo: org-gc
     location: Suzhou, China
     date_start: '2021-05-31'
     date_end: '2022-06-30'
-    description: Achieving long-term partnership with domestic international companies with global interns from more than 6 countries.
+    description: |2-
+        Responsibilities include:
+        
+        * Experiment
+        * Data
+        * Paper
 
   - title: Regional VP
     company: AIESEC
@@ -37,7 +42,7 @@ experience:
     company_logo: org-gc
     location: Suzhou, China
     date_start: '2019-06-01'
-    date_end: '2022-05-31'
+    date_end: '2020-05-31'
     description: Achieving long-term partnership with domestic international companies with global interns from more than 6 countries.
 
 design:
