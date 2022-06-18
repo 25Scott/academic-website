@@ -32,9 +32,10 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Carrying out experients, numerical simulation and data analysis according to researching requirements
+        * Contributing to research article writing and figure illustration
+        * Leading undergraduate research project
+        * Assisting undergraduate students in their final year projects
 
   - title: Regional VP
     company: AIESEC
