@@ -39,11 +39,11 @@ experience:
   - title: Regional Vice President
     company: AIESEC
     company_url: ''
-    company_logo: AIESEC
-    location: Suzhou, China
+    company_logo: org-gc
+    location: China
     date_start: '2019-6-1'
     date_end: '2020-5-31'
-    description: Achieve long-term partnership with domestic international companies with more than 10 global interns from 6 countries
+    description: Achieve long-term partnership with domestic international c
 
 design:
   columns: '2'
