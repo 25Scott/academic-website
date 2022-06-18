@@ -31,7 +31,7 @@ education:
   courses:
     - course: MSc in Rehabilitation Engineering & Assistive Technology
       institution: University College London
-      year: Now
+      year: ""
     - course: BEng in Mechatronics and Robotic Systems
       institution: Xi'an Jiaotong-Liverpool University
       year: 2022
