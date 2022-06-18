@@ -29,13 +29,7 @@ experience:
     location: Suzhou, China
     date_start: '2021-05-31'
     date_end: '2022-6-30'
-    description: |2-
-        Responsibilities include:
-        
-        * Experiment
-        * Data
-        * Paper
-
+    description: Achieving long-term partnership with domestic international companies with global interns from more than 6 countries.
 
   - title: Regional VP
     company: AIESEC
