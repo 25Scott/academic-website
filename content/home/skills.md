@@ -21,9 +21,9 @@ feature:
     icon_pack: fas
     name: ANSYS
   - description: 80%
-    icon: chart-line
+    icon: code
     icon_pack: fas
-    name: MATLAB
+    name: Coding (MATLAB, C)
   - description: 80%
     icon: cubes
     icon_pack: fas
@@ -31,7 +31,7 @@ feature:
   - description: 90%
     icon: doi
     icon_pack: ai
-    name: Article Production (LaTeX, Adobe AI&PS, Origin, etc.)
+    name: Article Production (LaTeX, Adobe Illustrator, Origin, etc.)
   - description: 90%
     icon: language
     icon_pack: fas
