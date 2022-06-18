@@ -35,7 +35,6 @@ experience:
         * Experiment
         * Data Analysis
         * Paper Writing
-
   - title: Regional VP
     company: AIESEC
     company_url: 'https://aiesec.org/'
