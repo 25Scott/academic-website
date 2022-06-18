@@ -36,14 +36,14 @@ experience:
         * Modelling
         * Deploying
 
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Regional Vice President in Suzhou
+    company: AIESEC
+    company_url: 'https://aiesec.org/'
+    company_logo: AIESEC
+    location: Suzhou, China
+    date_start: '2019-6-1'
+    date_end: '2020-5-31'
+    description: Achieve long-term partnership with domestic international companies with more than 10 global interns from 6 countries.
 
 design:
   columns: '2'
