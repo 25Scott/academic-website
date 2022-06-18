@@ -17,9 +17,9 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description: 90%
-    icon: r-project
+    icon: bone-break
     icon_pack: fab
-    name: R
+    name: ANSYS
   - description: 100%
     icon: chart-line
     icon_pack: fas
@@ -28,10 +28,6 @@ feature:
     icon: camera-retro
     icon_pack: fas
     name: Photography
-  - description: 70%
-    icon: "knee"
-    icon-pack: "custom"
-    name: ANSYS
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
