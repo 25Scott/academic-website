@@ -17,8 +17,8 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description: 85%
-    icon: gears
-    icon_pack: fas
+    icon: knee
+    icon_pack: custom
     name: Finite Element Analysis (ANSYS)
   - description: 70%
     icon: code
