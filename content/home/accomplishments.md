@@ -32,7 +32,6 @@ item:
     title: Neural Networks and Deep Learning
     url: ''
 
-
 design:
   columns: '2'
 ---
