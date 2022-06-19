@@ -23,29 +23,43 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.coursera.org
-    date_end: ''
-    date_start: '2021-01-25'
-    description: ''
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
+  - certificate_url: https://maifile.cn/dec/a57684223393@doc
+    date_end: '2021-09-1'
+    date_start: '2021-06-14'
+    description: Parametric and Lightweight Design of Free Shape Exoskeleton. One patent for invention has been published.
+    organization: Xi'an Jiaotong-Liverpool University
+    organization_url: ''
+    title: Summer Undergraduate Research Fellowship
     url: ''
-  - certificate_url: https://www.edx.org
+  - certificate_url: https://maifile.cn/dec/a58811226384@doc
     date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
-    description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
+    date_start: '2022-06-3'
+    description: |2-
+        High Pass (193/200) in C1 Level, with a grade in each of the subtests:
+        
+        * Listening - 50/50
+        * Reading - 45/50
+        * Writing - 48/50
+        * Speaking - 50/50
+        
+    organization: PeopleCert Qualifications Ltd
+    organization_url: ''
+    title: LanguageCert International ESOL
+    url: ''
+  - certificate_url: https://maifile.cn/dec/a54928225418@doc
+    date_end: ''
+    date_start: '2022-01-22'
+    description: |2-
+        B2 Level - Overall grade of 6.5 with a minimum of 6.0/9.0 in each of the subtests:
+        
+        * Listening - 7.0
+        * Reading - 7.0
+        * Writing - 6.0
+        * Speaking - 6.0
+        
+    organization: British Council
+    organization_url: ''
+    title: IELTS English Test
     url: ''
 
 design:
