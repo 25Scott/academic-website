@@ -20,7 +20,7 @@ feature:
     icon: gears
     icon_pack: fas
     name: Finite Element Analysis (ANSYS)
-  - description: 80%
+  - description: 70%
     icon: code
     icon_pack: fas
     name: Coding (MATLAB, C)
