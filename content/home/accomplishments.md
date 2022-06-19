@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://maifile.cn/dec/a57684223393@doc
+  - certificate_url: uploads/resume.pdf
     date_end: ''
     date_start: '2021-10-14'
     description: Parametric and Lightweight Design of Free Shape Exoskeleton. One patent for invention has been published.
