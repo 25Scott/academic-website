@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: uploads/resume.pdf
+  - certificate_url: uploads/Tianheng_SURF_Fellowship_Certificate.pdf
     date_end: ''
     date_start: '2021-10-14'
     description: Parametric and Lightweight Design of Free Shape Exoskeleton. One patent for invention has been published.
@@ -31,7 +31,7 @@ item:
     organization_url: 'https://www.xjtlu.edu.cn/en/'
     title: Summer Undergraduate Research Fellowship
     url: 'https://www.xjtlu.edu.cn/en/events/summer-undergraduate-research-fellowships/introduction'
-  - certificate_url: https://maifile.cn/dec/a58811226384@doc
+  - certificate_url: uploads/Tianheng_LanguageCert_Certificate.pdf
     date_end: ''
     date_start: '2022-06-03'
     description: |2-
@@ -46,7 +46,7 @@ item:
     organization_url: https://www.languagecert.org/en
     title: LanguageCert International ESOL
     url: ''
-  - certificate_url: https://maifile.cn/dec/a54928225418@doc
+  - certificate_url: uploads/Tianheng_IELTS_Certificate.pdf
     date_end: ''
     date_start: '2022-01-22'
     description: |2-
