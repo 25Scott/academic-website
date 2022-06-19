@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: RA
+  - title: Research Assistant
     company: Xi'an Jiaotong-Liverpool University
     company_url: ''
     company_logo: org-gc
@@ -40,7 +40,7 @@ experience:
   - title: Regional VP
     company: AIESEC
     company_url: ''
-    company_logo: org-gc
+    company_logo: AIESEC
     location: Suzhou, China
     date_start: '2019-06-01'
     date_end: '2020-05-31'
