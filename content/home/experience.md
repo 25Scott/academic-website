@@ -25,7 +25,7 @@ experience:
   - title: Research Assistant
     company: Xi'an Jiaotong-Liverpool University
     company_url: ''
-    company_logo: org-gc
+    company_logo: XJTLU
     location: Suzhou, China
     date_start: '2021-06-01'
     date_end: '2022-06-30'
