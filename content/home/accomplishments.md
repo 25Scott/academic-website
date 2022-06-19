@@ -29,7 +29,7 @@ item:
     description: Parametric and Lightweight Design of Free Shape Exoskeleton. One patent for invention has been published.
     organization: Xi'an Jiaotong-Liverpool University
     organization_url: 'https://www.xjtlu.edu.cn/en/'
-    organization_logo: XJTLU
+    company_logo: XJTLU
     title: Summer Undergraduate Research Fellowship
     url: 'https://www.xjtlu.edu.cn/en/events/summer-undergraduate-research-fellowships/introduction'
   - certificate_url: https://maifile.cn/dec/a58811226384@doc
