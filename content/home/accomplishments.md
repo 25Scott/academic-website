@@ -23,13 +23,13 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://maifile.cn/dec/a57684223393@doc
-    date_end: '2021-09-1'
-    date_start: '2021-06-14'
-    description: Parametric and Lightweight Design of Free Shape Exoskeleton. One patent for invention has been published.
-    organization: Xi'an Jiaotong-Liverpool University
-    organization_url: ''
-    title: Summer Undergraduate Research Fellowship
+  - certificate_url: https://www.coursera.org
+    date_end: ''
+    date_start: '2021-01-25'
+    description: ''
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    title: Neural Networks and Deep Learning
     url: ''
 
 design:
