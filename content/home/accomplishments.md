@@ -43,7 +43,7 @@ item:
         * Speaking - 50/50
         
     organization: PeopleCert Qualifications Ltd
-    organization_url: ''
+    organization_url: https://www.languagecert.org/en
     title: LanguageCert International ESOL
     url: ''
   - certificate_url: https://maifile.cn/dec/a54928225418@doc
@@ -58,7 +58,7 @@ item:
         * Speaking - 6.0
         
     organization: British Council
-    organization_url: ''
+    organization_url: https://www.ielts.org/
     title: IELTS English Test
     url: ''
     
