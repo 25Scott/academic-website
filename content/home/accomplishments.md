@@ -31,36 +31,7 @@ item:
     organization_url: 'https://www.xjtlu.edu.cn/en/'
     title: Summer Undergraduate Research Fellowship
     url: 'https://www.xjtlu.edu.cn/en/events/summer-undergraduate-research-fellowships/introduction'
-  - certificate_url: https://maifile.cn/dec/a58811226384@doc
-    date_end: ''
-    date_start: '2022-06-3'
-    description: |2-
-        High Pass (193/200) in C1 Level, with a grade in each of the subtests:
-        
-        * Listening - 50/50
-        * Reading - 45/50
-        * Writing - 48/50
-        * Speaking - 50/50
-        
-    organization: PeopleCert Qualifications Ltd
-    organization_url: https://www.languagecert.org/en
-    title: LanguageCert International ESOL
-    url: ''
-  - certificate_url: https://maifile.cn/dec/a54928225418@doc
-    date_end: ''
-    date_start: '2022-01-22'
-    description: |2-
-        B2 Level - Overall grade of 6.5 with a minimum of 6.0/9.0 in each of the subtests:
-        
-        * Listening - 7.0
-        * Reading - 7.0
-        * Writing - 6.0
-        * Speaking - 6.0
-        
-    organization: British Council
-    organization_url: https://www.ielts.org/
-    title: IELTS English Test
-    url: ''
+
     
 design:
   columns: '2'
