@@ -42,7 +42,7 @@ item:
         * Writing - 48/50
         * Speaking - 50/50
         
-    organization: edX
+    organization: PeopleCert Qualifications Ltd
     organization_url: https://www.languagecert.org/en
     title: LanguageCert International ESOL
     url: ''
