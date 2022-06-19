@@ -34,7 +34,14 @@ item:
   - certificate_url: https://maifile.cn/dec/a58811226384@doc
     date_end: ''
     date_start: '2022-06-03'
-    description: High Pass
+    description: |2-
+        High Pass (193/200) in C1 Level, with a grade in each of the subtests:
+        
+        * Listening - 50/50
+        * Reading - 45/50
+        * Writing - 48/50
+        * Speaking - 50/50
+        
     organization: PeopleCert Qualifications Ltd
     organization_url: ''
     title: LanguageCert International ESOL
