@@ -31,7 +31,14 @@ item:
     organization_url: 'https://www.xjtlu.edu.cn/en/'
     title: Summer Undergraduate Research Fellowship
     url: 'https://www.xjtlu.edu.cn/en/events/summer-undergraduate-research-fellowships/introduction'
-
+  - certificate_url: https://maifile.cn/dec/a58811226384@doc
+    date_end: ''
+    date_start: '2022-06-3'
+    description: High Pass
+    organization: PeopleCert Qualifications Ltd
+    organization_url: ''
+    title: LanguageCert International ESOL
+    url: ''
     
 design:
   columns: '2'
