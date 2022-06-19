@@ -43,7 +43,7 @@ item:
         * Speaking - 50/50
         
     organization: PeopleCert Qualifications Ltd
-    organization_url: [https://www.languagecert.org/en
+    organization_url: https://www.languagecert.org/en
     title: LanguageCert International ESOL
     url: ''
   - certificate_url: https://maifile.cn/dec/a54928225418@doc
