@@ -33,7 +33,7 @@ education:
       institution: University College London
       year: "Present"
     - course: BEng in Mechatronics and Robotic Systems, First Honours Degree
-      institution: Xi'an Jiaotong-Liverpool University
+      institution: Xi'an Jiaotong-Liverpool University / Liverpool University
       year: 2022
 email: ""
 superuser: true
