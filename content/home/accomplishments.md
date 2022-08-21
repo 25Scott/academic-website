@@ -64,10 +64,10 @@ item:
   - certificate_url: uploads/Tianheng_IELTS_Certificate.pdf
     date_end: ''
     date_start: '2022-07-15'
-    description: Achieving the highest mark for the Final Year Project (FYP, academic year 21/22) in the Department of Mechatronics and Robotics.
+    description: xxx
     organization: Xi'an Jiaotong-Liverpool University
     organization_url: 'https://www.xjtlu.edu.cn/en/'
-    title: Best Performance in the Undergraduate Final Year Project
+    title: Best Performance in Final Year Project
     url:''
 design:
   columns: '2'
