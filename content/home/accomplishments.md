@@ -64,14 +64,7 @@ item:
   - certificate_url: uploads/Tianheng_IELTS_Certificate.pdf
     date_end: ''
     date_start: '2022-01-22'
-    description: |2-
-        B2 Level - Overall grade of 6.5 with a minimum of 6.0/9.0 in each of the subtests:
-        
-        * Listening - 7.0
-        * Reading - 7.0
-        * Writing - 6.0
-        * Speaking - 6.0
-        
+    description: Achieving the highest mark for the Final Year Project (FYP, academic year 21/22) in the Department of Mechatronics and Robotics. The research outcome has been summarized into a journal article (under review). 
     organization: British Council
     organization_url: https://www.ielts.org/
     title: IELTS English Test
