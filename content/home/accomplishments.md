@@ -63,12 +63,19 @@ item:
     url: ''
   - certificate_url: uploads/Tianheng_IELTS_Certificate.pdf
     date_end: ''
-    date_start: '2022-07-15'
-    description: xxx
-    organization: Xi'an Jiaotong-Liverpool University
-    organization_url: 'https://www.xjtlu.edu.cn/en/'
-    title: Best Performance in Final Year Project
-    url:''
+    date_start: '2022-01-22'
+    description: |2-
+        B2 Level - Overall grade of 6.5 with a minimum of 6.0/9.0 in each of the subtests:
+        
+        * Listening - 7.0
+        * Reading - 7.0
+        * Writing - 6.0
+        * Speaking - 6.0
+        
+    organization: British Council
+    organization_url: https://www.ielts.org/
+    title: IELTS English Test
+    url: ''
 design:
   columns: '2'
 ---
