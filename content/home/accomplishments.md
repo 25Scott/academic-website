@@ -63,11 +63,11 @@ item:
     url: ''
   - certificate_url: uploads/Tianheng_IELTS_Certificate.pdf
     date_end: ''
-    date_start: '2022-01-22'
+    date_start: '2022-07-15'
     description: Achieving the highest mark for the Final Year Project (FYP, academic year 21/22) in the Department of Mechatronics and Robotics. The research outcome has been summarized into a journal article (under review). 
-    organization: British Council
-    organization_url: https://www.ielts.org/
-    title: IELTS English Test
+    organization: Xi'an Jiaotong-Liverpool University
+    organization_url: 'https://www.xjtlu.edu.cn/en/'
+    title: Best Performance in Final Year Project
     url: ''
 design:
   columns: '2'
